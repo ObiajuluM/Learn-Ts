@@ -1,0 +1,9 @@
+# install typescript
+npm i -g typescript
+
+# create config file 
+tsc --init
+
+# run
+npm install -g ts-node
+npx ts-node app.ts
